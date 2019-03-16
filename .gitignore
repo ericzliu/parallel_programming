@@ -1,0 +1,11 @@
+
+/miniproject_0/
+**/target
+**/*.jar
+**/.idea
+**/src/test
+**/resources
+**/pom.xml
+**/package-info.java
+
+.DS_Store
